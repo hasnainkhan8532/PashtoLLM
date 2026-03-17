@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+venv/
+
+# Build output
+frontend/.next/
+frontend/out/
+
+# Model files (too large for GitHub, hosted on HuggingFace)
+*.gguf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
