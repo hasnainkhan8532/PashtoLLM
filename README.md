@@ -28,18 +28,17 @@ The original model was built by **[Junaid Khan](https://huggingface.co/junaid008
 
 ---
 
-## 📥 Download the GGUF Model
+The quantized GGUF model file is hosted on HuggingFace and Google Drive due to its size (~8GB):
 
-The quantized GGUF model file is hosted separately due to its size (~8GB):
+- **[Download from Google Drive (Recommended)](https://drive.google.com/file/d/1HrR7_GnUGMGSdpjtBtKdQodBVKmOYjgG/view?usp=sharing)**
+- **[Download from HuggingFace](https://huggingface.co/hasnainayaz/qehwa-pashto-llm-gguf)**
 
-Download from HuggingFace:
+Alternatively, using the CLI:
 
 ```bash
 pip install huggingface-hub
 huggingface-cli download hasnainayaz/qehwa-pashto-llm-gguf --local-dir ./qehwa-model
 ```
-
-Or download directly from: **[huggingface.co/hasnainayaz/qehwa-pashto-llm-gguf](https://huggingface.co/hasnainayaz/qehwa-pashto-llm-gguf)**
 
 ---
 

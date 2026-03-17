@@ -52,6 +52,9 @@ The model targets the **Peshawari/KPK dialect** of Pashto and can:
 
 ## 📥 Download
 
+### Direct Download (Fastest)
+👉 **[Download from Google Drive](https://drive.google.com/file/d/1HrR7_GnUGMGSdpjtBtKdQodBVKmOYjgG/view?usp=sharing)**
+
 ### Using `hf` CLI
 ```bash
 brew install hf
@@ -64,7 +67,7 @@ pip install huggingface-hub
 huggingface-cli download hasnainayaz/qehwa-pashto-llm-gguf --local-dir ./qehwa-model
 ```
 
-### Direct Download
+### HuggingFace Download
 Click the **Files** tab above to download `qehwa-q8_0.gguf` directly.
 
 ---
