@@ -163,3 +163,15 @@ This project follows the license of the [original Qehwa model](https://huggingfa
 <p align="center">
   <sub>Designed by <a href="https://hasnainayaz.com">hasnainayaz.com</a></sub>
 </p>
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshot.png" alt="Qehwa Chat Interface" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshot2.png" alt="Qehwa Chat Interface - Pashto" width="800">
+</p>
